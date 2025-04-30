@@ -1,0 +1,6 @@
+git clone https://github.com/your-username/your-repo-name.git
+cd your-repo-name
+cp /path/to/diagram.drawio .
+git add diagram.drawio
+git commit -m "Add initial diagram"
+git push
